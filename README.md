@@ -74,5 +74,5 @@ Landscape after erosion:
 ![image](https://user-images.githubusercontent.com/51932532/115125837-800a3300-9fd3-11eb-8363-181db604de1b.png)
 
 # Usage
-Project "FractalGeneration" contains all files needed for testing. Just run "Main.py" file for example demonstration.
-Notice that if you want to use blender integration you will also need to put necessary python libs in Blender_root_path\startup folder. Dummy Blender project for testing is already created and is called "testDiamond.blend".
+Project "LandscapeGeneration" contains all files needed for testing. Just run "Main.py" file for example demonstration.
+Notice that if you want to use blender integration you will also need to put necessary python libs in Blender_root_path\startup folder.
