@@ -77,6 +77,6 @@ Landscape after erosion:
 Project "LandscapeGeneration" contains all files needed for testing. Just run "Main.py" file for example demonstration.
 Notice that if you want to use blender integration you will also need to put necessary python libs in Blender_root_path\startup folder.
 
-#Some beautiful examples
+# Some beautiful examples
 ![image](https://user-images.githubusercontent.com/51932532/116790947-c83f5000-aabf-11eb-92ee-74e2e0da7dd5.png)
 
