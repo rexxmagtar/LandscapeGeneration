@@ -83,6 +83,8 @@ Notice that if you want to use blender integration you will also need to put nec
 ![image](https://user-images.githubusercontent.com/51932532/116811229-cec9d800-ab50-11eb-8002-6cbdb0b79067.png)
 ![image](https://user-images.githubusercontent.com/51932532/116817652-20ce2600-ab70-11eb-87d1-dd5f6837b1e2.png)
 ![image](https://user-images.githubusercontent.com/51932532/116817844-18c2b600-ab71-11eb-97a3-9c2290613959.png)
+![image](https://user-images.githubusercontent.com/51932532/116818154-858a8000-ab72-11eb-983c-10ad36e13aa6.png)
+![image](https://user-images.githubusercontent.com/51932532/116818341-95ef2a80-ab73-11eb-9385-8877f3a72d15.png)
 
 
 
