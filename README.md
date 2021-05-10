@@ -90,6 +90,9 @@ Notice that if you want to use blender integration you will also need to put nec
 ![image](https://user-images.githubusercontent.com/51932532/117538517-3f6c6b00-b00f-11eb-9d0b-830d8fe26f00.png)
 Песчаные степи после эрозии.
 ![image](https://user-images.githubusercontent.com/51932532/117538699-0bde1080-b010-11eb-9ac2-55e27d381b2a.png)
+![image](https://user-images.githubusercontent.com/51932532/117702836-b3ef0780-b1d1-11eb-9199-36e9949be74e.png)
+![image](https://user-images.githubusercontent.com/51932532/117703046-f7e20c80-b1d1-11eb-8890-20d25e1a99d0.png)
+
 
 
 
